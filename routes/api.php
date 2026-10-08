@@ -1,0 +1,1 @@
+route:: get('show-student',[])
